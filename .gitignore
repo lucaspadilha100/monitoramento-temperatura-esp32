@@ -1,0 +1,2 @@
+# Não subir arquivos com senhas
+esp32/secrets.h
